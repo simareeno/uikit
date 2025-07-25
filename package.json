@@ -217,6 +217,7 @@
     "*.{scss}": [
       "stylelint --fix --quiet"
     ],
+    "*.{js,jsx,ts,tsx}": [],
     "*.{md,mdx}": [
       "prettier --write"
     ]
