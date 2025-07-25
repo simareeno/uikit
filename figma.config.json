@@ -1,0 +1,10 @@
+{
+  "codeConnect": {
+    "include": ["src/**/*.{tsx,jsx}"],
+    "label": "React",
+    "importPaths": {
+      "src/components/*": "@gravity-ui/uikit"
+    },
+    "interactiveSetupFigmaFileUrl": "https://www.figma.com/design/1xmAVpNG0xrBD9LqsOYWSk/Gravity-UI-MCP-Fun?node-id=25661-56003&t=aDOHs3aXqzkLRMqE-1"
+  }
+}
